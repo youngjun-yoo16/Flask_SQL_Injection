@@ -5,6 +5,6 @@ I made this website intentionally vulnerable to SQL injection to see whether Spa
 
 ## Skill Stacks
 
-`Frontend`  : `HTML5` and `CSS3` with `Jinja` template engine
+`Frontend`  : `HTML5` and `CSS3` with `Jinja2` template engine
 
-`Backend`   : `Flask` and `SQLite`
+`Backend`   : `Flask` and `SQLite` connected with `SQLAlchemy`
