@@ -3,7 +3,7 @@
 This repository was created for the pre-development research at Fasoo. <br />
 I made this website intentionally vulnerable to SQL injection to see whether Sparrow's SAST engine could detect the vulnerability in a Flask environment.
 
-## Skill Stacks
+## Tech Stacks
 
 `Frontend`  : `HTML5` and `CSS3` with `Jinja2` template engine
 
